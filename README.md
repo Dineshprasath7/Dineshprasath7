@@ -49,7 +49,7 @@
   <a href="https://tryhackme.com/p/Dineshprasath7" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-%23111B5F.svg?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
-  <a href="https://picoctf.com/users/Dineshprasath" target="_blank">
+  <a href="https://play.picoctf.org/users/Dineshprasath7" target="_blank">
     <img src="https://img.shields.io/badge/PicoCTF-%23E4405F.svg?style=for-the-badge&logo=picoctf&logoColor=white" alt="PicoCTF">
   </a>
 </div>
