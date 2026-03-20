@@ -1,7 +1,5 @@
 # Hi, I'm Dineshprasath GA 👋
 
-🎓 **Cybersecurity Student** at **PSG College of Technology, Coimbatore**
-
 🔐 **Passionate about Cybersecurity** 
 
 ---
